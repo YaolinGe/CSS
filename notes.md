@@ -25,7 +25,12 @@
 `q:lang(no)` defines special rules for different languages.
 `target="_parent"` is primarily used with hyperlinks `<a>` element. So parent means it will open the new window inside the current frame, `target="_blank"` will open a new browser tab.
 `[title~="flower"]` attribute `title` include `flower` inside the name.
-
+`tooltip` to show extra information when user moves the mouse over the selected text.
+`tooltip` arrow is made of a square but with no content inside, also the size needs to be small. It can have animation as well.
+`css masking` can be a useful tool to produce images that are interesting.
+`box-sizing: border-box; ` this makes the weight and height to be inclusive of the padding and border.
+`*{box-sizing: border-box;}` to make all the elements to be the same style with `box-sizing` elements.
+ 
 
 
 ## Online IDE platforms
